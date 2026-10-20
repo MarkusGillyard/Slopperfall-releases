@@ -43,14 +43,14 @@ afternoon, with a chunky retro pixel look.
 2. Optionally check it against the `.sha256` file from the same page:
 
    ```bash
-   sha256sum -c Slopperfall-1.0.6-linux-x86_64.tar.gz.sha256
+   sha256sum -c Slopperfall-1.0.7-linux-x86_64.tar.gz.sha256
    ```
 
 3. Extract it and launch:
 
    ```bash
-   tar -xzf Slopperfall-1.0.6-linux-x86_64.tar.gz
-   ./Slopperfall-1.0.6-linux-x86_64/Slopperfall.sh
+   tar -xzf Slopperfall-1.0.7-linux-x86_64.tar.gz
+   ./Slopperfall-1.0.7-linux-x86_64/Slopperfall.sh
    ```
 
 Nothing else needs installing. The game uses Vulkan and falls back to OpenGL 3 automatically
@@ -101,8 +101,15 @@ play them as much as they like. You're free to record, stream and screenshot you
 publish and monetise those videos anywhere, music included. A link back to this page is
 appreciated but not required.
 
-Redistributing the game's files, modifying the game or selling it needs written permission. The
-full terms are in [LICENSE.md](LICENSE.md).
+**Mods are welcome.** You may unpack the official builds, change your own copy, and share mods
+for free. A mod may include changed game files where it needs them, but not the whole game or a
+repackaged build, so players still get Slopperfall itself from this page. Mark mods as unofficial,
+and don't imply they're endorsed. You own your own work in your mod. There's no built-in mod
+loader yet: the game's data, written as JSON and GDScript, lives inside the executable's
+embedded Godot pack.
+
+Redistributing the game itself or selling it needs written permission. The full terms are in
+[LICENSE.md](LICENSE.md).
 
 The game is built with the Godot Engine (MIT) and uses the DotGothic16 and Jacquard 24 fonts
 (SIL Open Font License 1.1). Their licenses ship inside every download, in

@@ -9,9 +9,9 @@ artwork, textures, sprites, sound effects, music, generator tools and documentat
 ## Terms
 
 1. **No license is granted** except as expressly stated in writing by the Owner, including in
-   term 3 below. Access to this repository or to a build of the Software does not grant any
+   terms 3 and 4 below. Access to this repository or to a build of the Software does not grant any
    right to use it beyond what the Owner has explicitly permitted.
-2. Except as term 3 allows, without the Owner's prior written permission you may not:
+2. Except as terms 3 and 4 allow, without the Owner's prior written permission you may not:
    - copy, reproduce or distribute the Software or any portion of it;
    - modify, adapt, translate, or create derivative works based on the Software;
    - sublicense, sell, rent, lease, lend or otherwise transfer the Software;
@@ -25,11 +25,24 @@ artwork, textures, sprites, sound effects, music, generator tools and documentat
      appear in play;
    - share links to the official download page.
 
-   This does not allow redistributing the game's files, modifying the game, selling it or
-   charging others for access to it, or presenting yourself as its author or as endorsed by the
-   Owner. A credit or a link to the official download page is appreciated but not required.
-4. All rights not expressly granted are reserved by the Owner.
-5. The Software is provided "as is", without warranty of any kind, express or implied. In no
+   Apart from mods under term 4, this does not allow redistributing the game's files, modifying
+   the game, selling it or charging others for access to it, or presenting yourself as its author
+   or as endorsed by the Owner. A credit or a link to the official download page is appreciated
+   but not required.
+4. **Mods.** Anyone may also, free of charge and without asking:
+   - unpack and study the official builds in order to make mods, and modify their own copy of
+     the game;
+   - make mods (new or changed content, data, art, sound or code that changes how the game plays
+     or looks) and share them with others;
+   - play, record and stream modded games as term 3 allows.
+
+   A shared mod may include changed versions of individual game files where the mod needs them,
+   but not the whole game or a repackaged build: players must get Slopperfall itself from the
+   official download page. Mods must be free, must say clearly that they are unofficial, and
+   must not imply endorsement by the Owner. Mod makers own their own original work in their
+   mods. The Owner does not support mods and is not responsible for them.
+5. All rights not expressly granted are reserved by the Owner.
+6. The Software is provided "as is", without warranty of any kind, express or implied. In no
    event shall the Owner be liable for any claim, damages or other liability arising from the
    use of the Software.
 
