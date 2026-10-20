@@ -8,20 +8,26 @@ artwork, textures, sprites, sound effects, music, generator tools and documentat
 
 ## Terms
 
-1. **No license is granted** except as expressly stated in writing by the Owner. Access to this
-   repository or to a build of the Software does not grant any right to use it beyond what the
-   Owner has explicitly permitted.
-2. Without the Owner's prior written permission, you may not:
+1. **No license is granted** except as expressly stated in writing by the Owner, including in
+   term 3 below. Access to this repository or to a build of the Software does not grant any
+   right to use it beyond what the Owner has explicitly permitted.
+2. Except as term 3 allows, without the Owner's prior written permission you may not:
    - copy, reproduce or distribute the Software or any portion of it;
    - modify, adapt, translate, or create derivative works based on the Software;
    - sublicense, sell, rent, lease, lend or otherwise transfer the Software;
    - use the Software, or any portion of it, for any commercial purpose;
    - publish, upload or make the Software publicly available in any form.
-3. **Permission to play.** The Owner grants you a personal, non-exclusive, non-transferable and
-   revocable permission to download the official Slopperfall builds that the Owner publishes, to
-   install them, and to play them for your own non-commercial use. You may share links to the
-   official download page. This permission does not extend to anything in term 2: you may not
-   redistribute, modify or sell the builds or any part of them.
+3. **Playing and recording.** Anyone may, free of charge and without asking:
+   - download the official Slopperfall builds that the Owner publishes, install them on any
+     number of their own devices, and play them as much as they like;
+   - record, stream and screenshot their play, and publish, share and monetise those videos,
+     streams and screenshots anywhere, including the game's visuals, sound and music as they
+     appear in play;
+   - share links to the official download page.
+
+   This does not allow redistributing the game's files, modifying the game, selling it or
+   charging others for access to it, or presenting yourself as its author or as endorsed by the
+   Owner. A credit or a link to the official download page is appreciated but not required.
 4. All rights not expressly granted are reserved by the Owner.
 5. The Software is provided "as is", without warranty of any kind, express or implied. In no
    event shall the Owner be liable for any claim, damages or other liability arising from the
